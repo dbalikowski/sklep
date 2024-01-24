@@ -1,0 +1,2 @@
+# sklep
+sklep z częsciami
