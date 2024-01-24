@@ -1,0 +1,6 @@
+opona,50,100
+akumulator,300,88
+wycieraczka,250,400
+filtr_oleju,45,150
+swiece,50,103
+amortyzator,420,53
